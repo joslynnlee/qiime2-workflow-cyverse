@@ -1,3 +1,3 @@
-### The wiki will  provide instructions on how to connect to CyVerse Infrastructure from the beginning. The dataset is private but will be updated to a public one soon. The Jupyter Notebooks are with the data set and will be posted after validation.
+### The Wiki will provide instructions on how to connect to CyVerse Infrastructure. The dataset is private but will be updated to a public when the journal is published on the research and approved by the Navajo Nation. The example Jupyter Notebooks are located in the directory 'jupyter-notebooks'.
 
-Send me an email if you want access to test them out. (jslee at fortlewis.edu)
+Send me an email (jslee at fortlewis.edu) for any questions.
